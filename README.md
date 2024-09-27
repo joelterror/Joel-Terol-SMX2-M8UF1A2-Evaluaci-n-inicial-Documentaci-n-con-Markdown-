@@ -22,7 +22,8 @@ Una aplicación web es un software que se ejecuta en un navegador y que permite 
 
 Respuesta.
 
-Una herramienta ofimática es un software diseñado para facilitar tareas comunes de oficina, como la creación y edición de documentos, hojas de cálculo, presentaciones o el correo.
+Es un software diseñado para facilitar las tareas de oficina, como la creación y edición de documentos, hojas de cálculo, presentaciones o el correo.
+
 Herramientas de Google:
 
 Herramientas de Google:
@@ -39,13 +40,13 @@ Herramientas de Google:
 
 Respuesta.
 
-HTML (HyperText Markup Language) es el lenguaje utilizado para crear y estructurar el contenido de las páginas web.
+HTML (HyperText Markup Language), es el lenguaje utilizado para crear y estructurar el contenido de las páginas web.
 
 
 ¿Qué es CSS?
 
 Respuesta.
 
-CSS (Cascading Style Sheets) es un lenguaje utilizado para describir la presentación y el diseño visual de las páginas web escritas en HTML.
+CSS (Cascading Style Sheets), es el lenguaje utilizado para describir la presentación y el diseño visual de las páginas web escritas en HTML.
 
 Flujo de trabajo (navegador, petición, servidor y respuesta):
