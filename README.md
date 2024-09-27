@@ -26,8 +26,6 @@ Es un software diseñado para facilitar las tareas de oficina, como la creación
 
 Herramientas de Google:
 
-Herramientas de Google:
-
 |Aplicaciones         |Visto       |
 |---------------------|------------|
 |Google Docs          |https://static.vecteezy.com/system/resources/previews/008/134/818/original/check-mark-icon-checkmark-right-symbol-tick-sign-ok-button-correct-circle-icon-free-vector.jpg            |            |
