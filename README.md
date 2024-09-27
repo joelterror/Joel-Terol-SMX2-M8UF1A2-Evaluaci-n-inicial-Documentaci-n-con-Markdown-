@@ -29,11 +29,11 @@ Herramientas de Google:
 
 |Aplicaciones         |Visto       |
 |---------------------|------------|
-|Google Docs          |            |
-|Google Slides        |            |
-|Google Sheets        |            |
-|Google Calendar      |            |
-|Google Meet          |            |
+|Google Docs          |https://static.vecteezy.com/system/resources/previews/008/134/818/original/check-mark-icon-checkmark-right-symbol-tick-sign-ok-button-correct-circle-icon-free-vector.jpg            |            |
+|Google Slides        |https://static.vecteezy.com/system/resources/previews/008/134/818/original/check-mark-icon-checkmark-right-symbol-tick-sign-ok-button-correct-circle-icon-free-vector.jpg            |            |
+|Google Sheets        |https://static.vecteezy.com/system/resources/previews/008/134/818/original/check-mark-icon-checkmark-right-symbol-tick-sign-ok-button-correct-circle-icon-free-vector.jpg            |            |
+|Google Calendar      |https://static.vecteezy.com/system/resources/previews/000/338/425/original/vector-calendar-icon.jpg|
+|Google Meet          |https://static.vecteezy.com/system/resources/previews/000/424/117/original/computer-icon-vector-illustration.jpg|
 
 ¿Qué es HTML ?
 
@@ -49,4 +49,3 @@ Respuesta.
 CSS (Cascading Style Sheets) es un lenguaje utilizado para describir la presentación y el diseño visual de las páginas web escritas en HTML.
 
 Flujo de trabajo (navegador, petición, servidor y respuesta):
-
